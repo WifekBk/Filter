@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 function each(coll, f) { 
     if (Array.isArray(coll)) { 
@@ -158,3 +159,6 @@ function strongPasswords(array){
     } 
 
     //// finish
+=======
+
+>>>>>>> 9c33c4b7aa672f6927e3af77a3812095592ab548
